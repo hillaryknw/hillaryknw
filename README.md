@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hillaryknw" alt="hillaryknw" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em **fórum web**
+- 📄 Atualmente estou trabalhando em: 
+- **fórum web** ★
+- **casa das notas** ★
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
