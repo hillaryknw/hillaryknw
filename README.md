@@ -12,6 +12,14 @@
 <h3 align="center">Estudante de desenvolvimento de sistemas no SENAI</h3>
 <hr>
 
+### 📍 Meus Projetos
+
+### ✧ Sistema de Chamada Escolar
+
+🚀 [Ver projeto](https://github.com/seu-usuario/nome-do-repo)
+
+---
+
 
 <div style="width: 80%; margin: 0 auto;">
 
