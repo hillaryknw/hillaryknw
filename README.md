@@ -9,12 +9,11 @@
 
 
 <h1 align="center">Olá 🍓, eu sou a Hillary!</h1>
-<h3 align="center">estudante de desenvolvimento de sistemas</h3>
+<h3 align="center">Estudante de desenvolvimento de sistemas no SENAI</h3>
 
-
-- 📄 Atualmente estou trabalhando em: 
-- **fórum web** ★
-- **casa das notas** ★
+ Atualmente estou trabalhando em: 
+📄 **Fórum web** ★
+🏠🎵 **Casa das notas** ★
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
